@@ -219,6 +219,7 @@ namespace Sistematico
             this.btnUpt.TabIndex = 22;
             this.btnUpt.Text = "Modificar";
             this.btnUpt.UseVisualStyleBackColor = true;
+            this.btnUpt.Click += new System.EventHandler(this.btnUpt_Click);
             // 
             // btnDel
             // 
@@ -228,6 +229,7 @@ namespace Sistematico
             this.btnDel.TabIndex = 23;
             this.btnDel.Text = "Eliminar";
             this.btnDel.UseVisualStyleBackColor = true;
+            this.btnDel.Click += new System.EventHandler(this.btnDel_Click);
             // 
             // ndMate
             // 
