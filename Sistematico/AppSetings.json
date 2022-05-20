@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "Default": "Data Source=DESKTOP-PMSKU85;Initial Catalog=DepreciationDB;user=sa;password=123456"
+  }
+}

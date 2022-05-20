@@ -14,7 +14,7 @@ namespace Sistematico.Domain.Entities
         public string Phone { get; set; }
         public string Direccion { get; set; }
         public string Correo { get; set; }
-        public int Matematica { get; set; }
+        public int Matematicas { get; set; }
         public int Contabilidad { get; set; }
         public int Programacion { get; set; }
         public int Estadistica { get; set; }
